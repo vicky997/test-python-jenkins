@@ -1,5 +1,5 @@
 # python-http
 
 Simple Hello World Python HTTP server
-test 6
+test 7
 
