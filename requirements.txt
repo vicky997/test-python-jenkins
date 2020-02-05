@@ -1,1 +1,2 @@
 #Fill in dependencies here
+dnspython==1.16.0
