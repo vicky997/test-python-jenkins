@@ -2,7 +2,7 @@ apiVersion: skaffold/v1beta2
 kind: Config
 build:
   artifacts:
-  - image: zylahealth/test-python-jenkins
+  - image: vicky-socs/test-python-jenkins
     context: .
     docker: {}
   tagPolicy:
