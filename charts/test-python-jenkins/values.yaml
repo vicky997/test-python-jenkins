@@ -3,8 +3,8 @@
 # Declare variables to be passed into your templates.
 replicaCount: 1
 image:
-  repository: draft
-  tag: dev
+  repository: 685249416972.dkr.ecr.ap-south-1.amazonaws.com/vicky-socs/test-python-jenkins
+  tag: 0.0.1
   pullPolicy: IfNotPresent
 
 # define environment variables here as a map of key: value
