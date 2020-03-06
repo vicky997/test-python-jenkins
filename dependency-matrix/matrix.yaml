@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: vicky-socs
+  repo: test-python-jenkins
+  url: https://github.com/vicky-socs/test-python-jenkins.git
+  version: ""
+  versionURL: ""
